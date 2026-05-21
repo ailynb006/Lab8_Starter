@@ -1,11 +1,11 @@
 {
-    "name": "",
-    "short_name": "",
-    "description": "",
-    "start_url": "",
-    "display": "",
-    "background_color": "",
-    "theme_color": "",
+    "name": "Lab 8 Starter",
+    "short_name": "Ailyn Becerra",
+    "description": "Thanksgiving recipe app",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "##fcf4d7",
+    "theme_color": "#fc9403",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
